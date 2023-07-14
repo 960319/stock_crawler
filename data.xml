@@ -1,0 +1,9 @@
+<params>
+  <url>https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY</url>
+  <excelName>宏碁</excelName>
+  <startYear>2022</startYear>
+  <startMonth>12</startMonth>
+  <endYear>2023</endYear>
+  <endMonth>6</endMonth>
+  <stockNo>2353</stockNo>
+</params>
